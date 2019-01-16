@@ -1,3 +1,4 @@
 v1.0 - LAN
 v1.1 - RAM
 v1.2 - CPU
+v1.3 - GPU
